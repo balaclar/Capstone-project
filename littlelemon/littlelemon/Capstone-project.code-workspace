@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Capstone-project",
+			"path": "../.."
+		},
+		{
+			"name": "static",
+			"path": "../../../Capstone/littlelemon/littlelemon/restaurant/static"
+		}
+	],
+	"settings": {}
+}
